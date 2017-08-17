@@ -1,13 +1,12 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=Cp1252">
-<?php 
-	$texto = $_GET['get'];
+<?php
+	// vamos receber uma variável via GET e exibir a mesma na tela
+	$texto = $_GET['nome'];
 ?>
-<title>Aula 02</title>
-</head>
+<html>
+	<head>
+		<title>Aula 03 - Curso de PHP</title>
+	</head>
 	<body>
-	    <?=$texto?>
-    </body>
+		Olá <strong><?=$texto?></strong>, seja bem vindo!
+	</body>
 </html>
