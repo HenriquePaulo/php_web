@@ -1,7 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e66f05a-ff14-4649-9880-75f474b659ee" name="Default" comment="" />
+    <list default="true" id="0e66f05a-ff14-4649-9880-75f474b659ee" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/_fontes/modelagem_blog_2014.mwb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/_fontes/modelagem_blog_2014.mwb.bak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/_fontes/ajuda.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/_fontes/blog_php.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/controller/categoria.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/controller/imagem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/controller/post.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/controller/usuario.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/model/admin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/model/site.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/admin.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/contato.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/formcategoria.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/formimagem.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/formpost.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/formusuario.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/inicial.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/inicialadmin.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/listarcategorias.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/listarimagens.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/listarusuarios.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/login.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/site.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/app/view/verpost.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/application.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/assets/css/blog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/assets/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/funcoes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Canvas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Coordinate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Font/GDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Font/PS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Font/TTF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Mapper/BMP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Mapper/GD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Mapper/GD2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Mapper/GIF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Mapper/JPEG.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Mapper/PNG.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Mapper/TGA.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/MapperFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/AddNoise.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/ApplyConvolution.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/ApplyFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/ApplyMask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/AsGrayscale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/AsNegative.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/AutoCrop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/CopyChannelsPalette.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/CopyChannelsTrueColor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/CorrectGamma.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/Crop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/Flip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/GetMask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/Merge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/Mirror.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/Resize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/ResizeCanvas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/Rotate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/RoundCorners.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/Operation/Unsharp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/OperationFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/PaletteImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/TrueColorImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/WideImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/gpl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/lgpl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/vendor/de77/BMP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/libs/wideimage/vendor/de77/TGA.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail-autenticado.php" afterPath="$PROJECT_DIR$/mail-autenticado.php" />
+    </list>
     <ignored path="cursophp.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,36 +100,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="servico.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload/servico.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="10" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mdl_usuario.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/usuario/mdl_usuario.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-              <folding>
-                <marker date="1396665840454" expanded="true" signature="51:100" ph="SELECT id, n... usuario" />
-                <marker date="1396665840454" expanded="true" signature="228:277" ph="SELECT id, n... usuario" />
-                <marker date="1396665840454" expanded="true" signature="421:454" ph="DELETE FROM " />
-                <marker date="1396665840454" expanded="true" signature="855:931" ph="INSERT INTO usuario... " />
-                <marker date="1396665840454" expanded="true" signature="1317:1373" ph="UPDATE usuar... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="listaDrivers.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pdo/listaDrivers.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="51">
               <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
@@ -74,8 +127,8 @@
       <file leaf-file-name="intermediario.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pdo/intermediario.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            <state relative-caret-position="53">
+              <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
                 <marker date="1502925294152" expanded="true" signature="356:425" ph="insert into usuario... " />
@@ -85,11 +138,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mail-autenticado.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/app/view/site.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/application.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/app/model/site.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-763">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+              <folding>
+                <marker date="1403917074179" expanded="true" signature="40:819" ph="SELECT bp.po... blog_categoria" />
+                <marker date="1403917074179" expanded="true" signature="894:949" ph="SELECT categ... blog_categoria" />
+                <marker date="1403917074179" expanded="true" signature="2052:2110" ph="SELECT * FRO... blog_imagem" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mail-autenticado.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mail-autenticado.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-32">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -116,6 +213,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -147,6 +247,10 @@
         <option value="$PROJECT_DIR$/pdo/basico.php" />
         <option value="$PROJECT_DIR$/dbCon.php" />
         <option value="$PROJECT_DIR$/pdo/intermediario.php" />
+        <option value="$PROJECT_DIR$/mail-autenticado.php" />
+        <option value="$PROJECT_DIR$/blog/config.php" />
+        <option value="$PROJECT_DIR$/blog/index.php" />
+        <option value="$PROJECT_DIR$/blog/app/view/site.tpl.php" />
       </list>
     </option>
   </component>
@@ -175,7 +279,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -193,6 +297,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -211,10 +316,91 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cursophp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cursophp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pdo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cursophp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cursophp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cursophp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cursophp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cursophp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cursophp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cursophp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cursophp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,12 +412,13 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\cursophp" />
+      <recent name="C:\xampp\htdocs\cursophp\blog\libs" />
+      <recent name="C:\xampp\htdocs\cursophp\blog" />
       <recent name="C:\xampp\htdocs\cursophp\pdo" />
       <recent name="C:\xampp\htdocs\cursophp\app\usuario" />
-      <recent name="C:\xampp\htdocs\cursophp\libs" />
-      <recent name="C:\xampp\htdocs\cursophp\javascript" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\cursophp\blog" />
       <recent name="C:\xampp\htdocs\cursophp\javascript" />
       <recent name="C:\xampp\htdocs\cursophp\app\usuario" />
     </key>
@@ -322,14 +509,20 @@
       <workItem from="1502380194919" duration="2663000" />
       <workItem from="1502462239455" duration="8054000" />
       <workItem from="1502921164614" duration="5905000" />
+      <workItem from="1503013993575" duration="1399000" />
+      <workItem from="1503322167881" duration="4328000" />
+      <workItem from="1503429684307" duration="501000" />
+      <workItem from="1503519888249" duration="512000" />
+      <workItem from="1503686209966" duration="1815000" />
+      <workItem from="1503774363021" duration="1498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63670000" />
+    <option name="totallyTimeSpent" value="73723000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1364" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1364" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24035609" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -369,49 +562,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/mysql01/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/download/controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/download/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.buildpath">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/usuario/view.php" />
     <entry file="file://$PROJECT_DIR$/app/usuario/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -545,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
           <caret line="63" column="9" selection-start-line="61" selection-start-column="8" selection-end-line="63" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,9 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -641,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,13 +794,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="10" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/usuario/mdl_usuario.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="578">
           <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
           <folding>
             <marker date="1396665840454" expanded="true" signature="51:100" ph="SELECT id, n... usuario" />
@@ -669,19 +813,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pdo/listaDrivers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="51">
           <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/cadastroUsuario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,6 +831,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mail-autenticado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dbCon.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -703,10 +847,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/upload/cadastroUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/libs/funcoes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/app/view/site.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="534" column="10" selection-start-line="534" selection-start-column="10" selection-end-line="534" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pdo/intermediario.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        <state relative-caret-position="53">
+          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
             <marker date="1502925294152" expanded="true" signature="356:425" ph="insert into usuario... " />
@@ -715,11 +915,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail-autenticado.php">
+    <entry file="file://$PROJECT_DIR$/blog/app/model/site.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-763">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <marker date="1403917074179" expanded="true" signature="40:819" ph="SELECT bp.po... blog_categoria" />
+            <marker date="1403917074179" expanded="true" signature="894:949" ph="SELECT categ... blog_categoria" />
+            <marker date="1403917074179" expanded="true" signature="2052:2110" ph="SELECT * FRO... blog_imagem" />
+          </folding>
         </state>
       </provider>
     </entry>
