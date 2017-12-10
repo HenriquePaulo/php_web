@@ -7,9 +7,9 @@ class App {
 	//public $db_name = "blog_php";
 	
 	public $db_host = "localhost";
-	public $db_user = "cursophp_blog";
-	public $db_pass = "147@963!";
-	public $db_name = "cursophp_blog";
+	public $db_user = "root";
+	public $db_pass = "";
+	public $db_name = "blog_php";
 	
 	// dados do site
 	public $site_titulo = "Curso de PHP";
